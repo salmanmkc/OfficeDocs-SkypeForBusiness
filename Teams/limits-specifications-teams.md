@@ -124,9 +124,9 @@ Channel names also can't start with an underscore (_) or period (.), or end with
 
 |Feature     | Maximum limit |
 |------------|---------------|
-|Audience size | 10,000 attendees |
-|Duration of event | 4 hours |
-|Concurrent live events running in an Office 365 organization <sup>1</sup> | 15 |
+|Audience size | 20,000 attendees |
+|Duration of event | 16 hours |
+|Concurrent live events running in an Office 365 organization/tenant <sup>1</sup> | 50 |
 
 <sup>1</sup> You can schedule as many live events as you want, but you can only run 15 at a time. As soon as the producer joins a live event, it's considered to be running. The producer who attempts to join the 16th live event gets an error.
 
